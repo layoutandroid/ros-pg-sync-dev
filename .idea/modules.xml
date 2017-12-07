@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\ros-pg-sync-dev\ros-pg-sync-dev\BomPod.iml" filepath="F:\ros-pg-sync-dev\ros-pg-sync-dev\BomPod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ros-pg-sync-dev.iml" filepath="$PROJECT_DIR$/ros-pg-sync-dev.iml" />
+    </modules>
+  </component>
+</project>
